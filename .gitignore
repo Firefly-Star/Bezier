@@ -2,5 +2,6 @@
 *.vcxproj
 *.user
 *.sln
+*.filter
 bin/
 obj/
